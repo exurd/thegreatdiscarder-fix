@@ -26,6 +26,6 @@
   "devDependencies": {
     "grunt": "~1.0.3",
     "time-grunt": "~2.0.0",
-    "grunt-crx": "~1.0.3"
+    "grunt-crx": "~2.0.0"
   }
 }
