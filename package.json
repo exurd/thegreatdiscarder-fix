@@ -24,7 +24,7 @@
     "url": "https://github.com/deanoemcke/thegreatdiscarder/issues"
   },
   "devDependencies": {
-    "grunt": "~1.0.3",
+    "grunt": "~1.1.0",
     "time-grunt": "~2.0.0",
     "grunt-crx": "~2.0.0"
   }
